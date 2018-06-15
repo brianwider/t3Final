@@ -1,8 +1,7 @@
 # TP FINAL
 
 ### Usuario y contraseña usados para la base
-**User:** root
-**Password:** root
+**User:** root      **Password:** root
 
 ### Crear base de datos 
 ```bash
