@@ -1,13 +1,8 @@
-DATABASE: final
-
-Create table:
-CREATE TABLE `player` (
-  `ID` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `NAME` varchar(100) NOT NULL,
-  PRIMARY KEY (`ID`)
-) CHARSET=utf8;
-
 # TP FINAL
+
+### Usuario y contraseña usados para la base
+**User:** root
+**Password:** root
 
 ### Crear base de datos 
 ```bash
